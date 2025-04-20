@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 API_URL = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/"
-APPID = 367520  # Hollow Knight
+APPID = 843380 # super animal
 
 def fetch():
     try:
